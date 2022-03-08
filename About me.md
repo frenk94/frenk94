@@ -22,7 +22,7 @@ My working activities are focused on data, I studied Statistics (I gained a mast
 ```mermaid
         gantt
         dateFormat  YYYY-MM-DD
-        title The GANTT chart of my path 
+        title My Timeline 
 
         section Instruction
         Bachelor Degree in Statistcs and Information Sciences : des1, 2013-10-01,2016-10-15
@@ -36,4 +36,33 @@ My working activities are focused on data, I studied Statistics (I gained a mast
         Certification M001 Mongo DB Basics : milestone, 2019-02-21, 1d
 ```
 
-    <td align="center"><a href="https://github.com/frenk94"><img src="https://avatars0.githubusercontent.com/u/54543458?v=4" width="100px;" alt=""/><br /><sub><b>Francesco Dal Pont</b>
+## Working Experience
+
+Title       : **Big Data Consultant**
+
+Company     : **Brain Management**
+
+Sector      : Consulting and Sistem Integration
+
+Date        : **2018-12-17 - 2022-03-04**
+
+Keywords    : Consulting; System Integration; Data Mangement; SQL; Scala; Python; Spark; Hadoop; DataStage;
+
+Principal projects and activities : 
+- **Single Supervisor Mechanism at Intesa Sanpaolo** Development and maintenance of data integration and transformation process in order to provide information structures used for operation of credit-monitoring and stress test activities.
+- **General Data Protection Regulation - Right To Be Forgotten at UniCredit Bank** Development of software solution aiming to the data obliviation of personal information for the company costumers which satisfie eligibility criteria. Improvement of methods to certificate GDPR compliance of the company inpformation systems.
+- **Loss Given Default at BancoBPM** Development of software solution having the goal of calculate and evaluate measure and indexes related to credit risk.
+
+
+Title       : **Intern researcher**
+
+Company     : **CRISP (Centro di Ricerca Interuniversitario per i Servizi di Pubblica Utilità**
+
+Sector      : Instruction, Research and Development
+
+Date        : **2016-02-15 - 2016-02-10**
+
+Keywords    : Statistics; Informatics; Text Analisys; R;
+
+Principal projects and activities : 
+- **Research Trends in Statistic and Informatics: a comparative study** Study, through the comprension and application of principal techniques of text analysis, of the last trends and focal themes of statical and informatics sciences whith the aim of dectect the level of dependency between the two disciplines.
