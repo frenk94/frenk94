@@ -5,6 +5,20 @@ My working activities are focused on data, I studied Statistics (I gained a mast
 
 # My Path
 
+```mermaid
+        gantt
+        dateFormat  YYYY-MM-DD
+        title The GANTT chart of my path 
+
+        section Instruction
+        Bachelor Degree in Statistcs and Information Sciences :       des1, 2013-10-01,2016-10-15
+        Master Degree in Statistical and Economical Sciences :        des2, 2016-10-01,2019-01-17 
+
+        section Employment
+        Big Data Consultant at Brain Management :done,   2018-12-17,2022-03-06
+        Data Manager and Analist at Alten       :active,  2022-03-07, 10d
+```
+
 Need something to play with your (many) friends? You're stuck in different places or you're too bored to gather yourself somewhere to play? Or simply you want to play Lupus directly from your smartphone? Well, maybe this bot is for you!
 
 ### What do you need to play?
