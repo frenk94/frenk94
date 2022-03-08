@@ -38,13 +38,25 @@ My working activities are focused on data, I studied Statistics (I gained a mast
 
 ## Working Experience
 
+Title       : **Data Manager and Analyst**
+
+Company     : **Alten**
+
+Sector      : Consulting
+
+Dates       : **2022-03-07 - Today**
+
+Keywords    : Consulting; Data Mangement; SQL; Scala; Spark; Hadoop;
+
+---
+
 Title       : **Big Data Consultant**
 
 Company     : **Brain Management**
 
 Sector      : Consulting and Sistem Integration
 
-Date        : **2018-12-17 - 2022-03-04**
+Dates       : **2018-12-17 - 2022-03-04**
 
 Keywords    : Consulting; System Integration; Data Mangement; SQL; Scala; Python; Spark; Hadoop; DataStage;
 
@@ -53,6 +65,7 @@ Principal projects and activities :
 - **General Data Protection Regulation - Right To Be Forgotten at UniCredit Bank** Development of software solution aiming to the data obliviation of personal information for the company costumers which satisfie eligibility criteria. Improvement of methods to certificate GDPR compliance of the company inpformation systems.
 - **Loss Given Default at BancoBPM** Development of software solution having the goal of calculate and evaluate measure and indexes related to credit risk.
 
+---
 
 Title       : **Intern researcher**
 
@@ -60,9 +73,86 @@ Company     : **CRISP (Centro di Ricerca Interuniversitario per i Servizi di Pub
 
 Sector      : Instruction, Research and Development
 
-Date        : **2016-02-15 - 2016-02-10**
+Dates       : **2016-02-15 - 2016-02-10**
 
 Keywords    : Statistics; Informatics; Text Analisys; R;
 
 Principal projects and activities : 
 - **Research Trends in Statistic and Informatics: a comparative study** Study, through the comprension and application of principal techniques of text analysis, of the last trends and focal themes of statical and informatics sciences whith the aim of dectect the level of dependency between the two disciplines.
+
+---
+
+## Instruction
+
+Title : **Master Course in Statistical and Economical Sciences**
+
+Institute : **Università degli Studi di Milano Bicocca**
+
+Dates : **2016-10-15 - 2019-01-17**
+
+Degree : **Master Degree in Statistical and Economical Sciences (110 cum Laude / 110)**
+
+Keywords : Analysis of Economical and Longitudianal series; Probability and Computational Statistics; Advanced Statistics; Statistical Process; Risk Management; Economics for Insurances; Microeconics; Finance;
+
+---
+
+Title : **Bachelor Course in Statistics and Information Management**
+
+Institute : **Università degli Studi di Milano Bicocca**
+
+Dates : **2013-10-01 - 2016-10-15**
+
+Degree : **Bachelor Degree in Statistics and Information Mangement (110 / 110)**
+
+Keywords : Statistics; Probability; Multivariate Statistics; Medical Statistics; Biostatistics; Social Statistics; Computational Statistics; Epidemiology; Demograppy; Informatics; DataBases; Math; Algebra; 
+
+---
+
+## Certifications
+
+Certification : SAS Base Programming for SAS 9
+
+Institute: SAS Institute
+
+Date: 2017-04-18
+
+---
+
+Certification : M001 MongoDB Basics
+
+Institute: MongoDB University
+
+Date: 2019-02-21
+
+---
+
+# Skills
+
+## Language
+
+**Italian**: Native Speaker
+
+**English**: C1 - Advanced
+
+## Technical - Software and Applications
+
+**Microsoft Office**: Advanced
+
+**DataStage**: Upper Intermediate
+
+**SAS**: Base
+
+## Technical - Programming Languages
+
+**Python**: Intermediate
+
+**Scala**: Advanced:
+
+**R**: Advanced
+
+**SQL/HQL**: Expert
+
+**SAS** : Base
+
+
+
